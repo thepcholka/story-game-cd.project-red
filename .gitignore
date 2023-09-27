@@ -1,0 +1,10 @@
+x64
+.vs
+packages
+*.config
+*.vcx
+*.sln
+*.user
+*.filters
+*~
+*.vcxproj
